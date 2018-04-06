@@ -1,17 +1,16 @@
+# PROJECT TITLE: Atlas!!!
 
-#PROJECT TITLE: Atlas!!!
-
-#DESCRIPTION:
+# DESCRIPTION:
              Its gives information of Countries and their capital, Spelling mistake error of input query can also  detected at               runtime 
-#VERSION or DATE:
+# VERSION or DATE:
                January , 2012
 
-#TECHNOLOGY USED: 
+# TECHNOLOGY USED: 
                 java , BlueJ ,String manipulations
 
-#AUTHORS: Sckorpio
+# AUTHORS: Sckorpio
 
-#USER INSTRUCTIONS:
+# USER INSTRUCTIONS:
                    --Download the project
                    --Build the project in Bluej IDE
                    --Run the main file object
